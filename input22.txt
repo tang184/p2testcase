@@ -1,0 +1,8 @@
+2
+5 5
+S T C K E
+S G A I J
+K B M C O
+P Q R D T
+S T W X Y
+STACK

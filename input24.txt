@@ -1,0 +1,8 @@
+2
+5 5
+S J C T S
+S T M A C
+T B M C A
+P S R A T
+S T A C T
+STACK

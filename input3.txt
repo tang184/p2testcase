@@ -1,0 +1,42 @@
+3
+40
+e b 1
+e b 2
+e f 3
+e f 4
+e b 5
+e b 6
+e f 7
+e b 8
+e f 9
+e f 10
+e f 11
+e b 12
+e b 13
+d b
+d f
+d f
+d b
+s
+d b
+d f
+d b
+d b
+d b
+d f
+e b 14
+d f
+d b
+d b
+d b
+d b
+d b
+e b 20
+e b 21
+e b 22
+e b 23
+d b
+d b
+d b
+d b
+s

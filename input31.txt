@@ -1,0 +1,29 @@
+3
+27
+e b 1
+e b 2
+e f 3
+e b 4
+e b 5
+e b 6
+e b 7
+e b 8
+e b 9
+e f 10
+e b 11
+d f
+d f
+d f
+d f
+d f
+d f
+d f
+d f
+d f
+d f
+d f
+d f
+d f
+d f
+d f
+d f

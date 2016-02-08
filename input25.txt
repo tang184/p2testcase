@@ -1,0 +1,10 @@
+2
+7 7
+M S R M C C D
+D K T A A D K
+I A F T E G C
+A D T S T A C
+A S E T P A D
+I T J A L M C
+A W A C E W M
+STACK
